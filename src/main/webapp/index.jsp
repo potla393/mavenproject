@@ -40,6 +40,7 @@
             <li><strong>Master the art of automation and continuous integration</strong></li>
             <li><strong>Gain hands-on experience with industry-standard tools</strong></li>
             <li><strong>Join withus and thanks for choosing devops course</strong></li>
+             <li><strong>HELLO WORLD BHARAT INDIA</strong></li>
         </ul>
     </div>
 </body>
