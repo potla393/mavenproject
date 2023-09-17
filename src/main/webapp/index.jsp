@@ -36,11 +36,7 @@
             <h1>Welcome to Codingrad DevOps Course</h1>
         </marquee>
         <ul>
-            <li><strong>Learn DevOps principles and practices</strong></li>
-            <li><strong>Master the art of automation and continuous integration</strong></li>
-            <li><strong>Gain hands-on experience with industry-standard tools</strong></li>
-            <li><strong>Join withus and thanks for choosing devops course</strong></li>
-             <li><strong>HELLO WORLD BHARAT INDIA</strong></li>
+           
             <li><strong>HELLO I LOVE INDIA..........................</strong></li>
              <li><strong>HELLO I LOVE INDIA.............INDIA INDIA INDIA BHARATH.............</strong></li>
         </ul>
