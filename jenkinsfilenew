@@ -1,0 +1,22 @@
+node {   
+    stage('scm') { // for display purposes
+       git branch: 'main', url: 'https://github.com/potla393/mavenproject.git'
+    }
+    stage('install') {
+        // Run the maven build
+       sh "mvn install"
+    }
+     stage('compile') {
+        // Run the maven build
+       sh "mvn compile"
+    }
+
+     stage('test') {
+        // Run the maven build
+       sh "mvn test"
+    }   
+     stage('package') {
+        // Run the maven build
+       sh "mvn package"
+    }   
+}
